@@ -1,2 +1,2 @@
-[[Documentation | https://github.com/code-orchestra/documentation/wiki]]
+https://github.com/code-orchestra/documentation/wiki
 =============
